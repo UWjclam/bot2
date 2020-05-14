@@ -335,7 +335,8 @@ public class Main {
         System.out.println();
         System.out.println(productStyles);
         System.out.println();
-        System.out.println();
+
+        System.out.println();System.out.println();
 
         System.out.println(returnLink(matchName1, matchName2, matchStyle));
 
